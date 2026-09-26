@@ -15,8 +15,8 @@
 
 ### 🧭 About Me
 - 🔭 Currently building **cool side projects** across web, data, and AI
-- 👯 Open to collaborating on **web apps & automation testing**
-- 💬 Ask me about **frontend-to-fullstack engineering, automation testing**
+- 👯 Open to collaborating on **web apps**
+- 💬 Ask me about **frontend-to-fullstack engineering**
 
 ---
 
