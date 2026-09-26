@@ -2,7 +2,7 @@
 
 # Hi, I'm Phuc 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%2B+React+Golang+Nodejs;Building+things+that+don't+exist+yet" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+things+that+don't+exist+yet" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=phucnguyne&style=flat-square&color=58A6FF" alt="profile views"/>
 
@@ -60,7 +60,10 @@ Fullstack app for live scores, fixtures, standings & player/team analytics, buil
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,html,css,git,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,powershell,figma" />
 </p>
 
 ---
@@ -68,16 +71,7 @@ Fullstack app for live scores, fixtures, standings & player/team analytics, buil
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phucnguyne&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucnguyne&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucnguyne&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phucnguyne&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
