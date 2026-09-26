@@ -1,16 +1,94 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**phucnguyne/phucnguyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Phuc 👋
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%2B+Python+Enthusiast;Building+things+that+don't+exist+yet" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=phucnguyne&style=flat-square&color=58A6FF" alt="profile views"/>
+
+</div>
+
+---
+
+### 🧭 About Me
+- 🔭 Currently building **cool side projects** across web, data, and AI
+- 👯 Open to collaborating on **web apps & data-driven tools**
+- 💬 Ask me about **frontend engineering, automation, or sports analytics**
+- ⚡ Fun fact: I like turning random ideas — plants, music, football — into working apps
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🌿 [Plantly](https://github.com/phucnguyne/Plantly)**
+A plant-care companion app built with React Native.
+`React Native` `TypeScript`
+
+</td>
+<td width="50%">
+
+**🎵 [Discovery-Music](https://github.com/phucnguyne/Discovery-Music)**
+Music discovery & exploration web app.
+`TypeScript` `Astro` `CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤖 [ChatBot_Scan-PDF](https://github.com/phucnguyne/ChatBot_Scan-PDF)**
+Local-first PDF Q&A assistant with hybrid FAISS + BM25 retrieval, OCR for scanned docs, and Ollama-powered answers.
+`Python`
+
+</td>
+<td width="50%">
+
+**⚽ [Football-Analytics-Platform](https://github.com/phucnguyne/Football-Analytics-Platform)**
+Fullstack app for live scores, fixtures, standings & player/team analytics, built with Next.js, real-time WebSocket updates and PostgreSQL.
+`Next.js` `React` `TypeScript` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,html,css,git,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phucnguyne&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucnguyne&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucnguyne&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phucnguyne&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:nguyenhoangphuc08102006pvag@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/phucnguyenhoang08102006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<div align="center">
+<sub>⭐ Thanks for stopping by — feel free to explore my repos above!</sub>
+</div>
