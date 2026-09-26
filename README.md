@@ -2,7 +2,7 @@
 
 # Hi, I'm Phuc 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%2B+Python+Enthusiast;Building+things+that+don't+exist+yet" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%2B+React+Golang+Nodejs;Building+things+that+don't+exist+yet" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=phucnguyne&style=flat-square&color=58A6FF" alt="profile views"/>
 
