@@ -60,10 +60,11 @@ Fullstack app for live scores, fixtures, standings & player/team analytics, buil
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python" /><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,java,python" /><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,powershell,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,vite,git,powershell,figma" />
+  <img src="https://skillicons.dev/icons?i=pnpm" />
 </p>
 
 ---
