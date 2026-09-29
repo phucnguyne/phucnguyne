@@ -60,11 +60,31 @@ Fullstack app for live scores, fixtures, standings & player/team analytics, buil
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,java,python" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,aws,vite,git,powershell,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=pnpm" />
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <br>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://astro.build/" target="_blank"><img src="https://skillicons.dev/icons?i=astro" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <br>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a>
+  <br>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <br>
+  <a href="https://pnpm.io/" target="_blank"><img src="https://skillicons.dev/icons?i=pnpm" /></a>
 </p>
 
 ---
@@ -80,8 +100,8 @@ Fullstack app for live scores, fixtures, standings & player/team analytics, buil
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:nguyenhoangphuc08102006pvag@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/phucnguyenhoang08102006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nguyenhoangphuc08102006pvag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/phucnguyenhoang08102006" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <div align="center">
