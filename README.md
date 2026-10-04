@@ -89,14 +89,6 @@ Fullstack app for live scores, fixtures, standings & player/team analytics, buil
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucnguyne&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
