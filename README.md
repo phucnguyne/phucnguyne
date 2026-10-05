@@ -22,14 +22,14 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 **🌿 [Plantly](https://github.com/phucnguyne/Plantly)**
 A plant-care companion app built with React Native.
 `React Native` `TypeScript`
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 **🎵 [Discovery-Music](https://github.com/phucnguyne/Discovery-Music)**
 Music discovery & exploration web app.
@@ -38,14 +38,14 @@ Music discovery & exploration web app.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 **🤖 [ChatBot_Scan-PDF](https://github.com/phucnguyne/ChatBot_Scan-PDF)**
 Local-first PDF Q&A assistant with hybrid FAISS + BM25 retrieval, OCR for scanned docs, and Ollama-powered answers.
 `Python`
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 **⚽ [Football-Analytics-Platform](https://github.com/phucnguyne/Football-Analytics-Platform)**
 Fullstack app for live scores, fixtures, standings & player/team analytics, built with Next.js, real-time WebSocket updates and PostgreSQL.
@@ -57,9 +57,17 @@ Fullstack app for live scores, fixtures, standings & player/team analytics, buil
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phucnguyne/phucnguyne/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" /></a>
@@ -91,7 +99,7 @@ Fullstack app for live scores, fixtures, standings & player/team analytics, buil
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:nguyenhoangphuc08102006pvag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/phucnguyenhoang08102006" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
